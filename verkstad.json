@@ -1,0 +1,88 @@
+{
+    "manufacturer": [
+        {
+           "manufacturer_id": 1,
+            "manufacturer_name": "Scanda Audi motors",
+            "contact_person": "Lennart Vest",
+            "phone_number": "+438850234",
+            "country": "Damnark"
+        },
+
+        {
+            "manufacturer_id": 2,
+            "manufacturer_name": "Automobil SLK",
+            "contact_person": "Frans Shulser",
+            "phone_number": "+478937522",
+            "country": "Tyskland"
+        },
+
+
+        {
+            "manufacturer_id": 3,
+            "manufacturer_name": "Die decken firmen",
+            "contact_person": "Hans Turrer",
+            "phone_number": "+47233789784",
+            "country": "Tyskland"
+        },
+
+        {
+            "manufacturer_id": 4,
+            "manufacturer_name": "Norrlands dack",
+            "contact_person": "Klas Malm",
+            "phone_number": "+4678850234",
+            "country": "Sverige"
+        },
+
+        {
+            "manufacturer_id": 5,
+            "manufacturer_name": "Skrachna automobil",
+            "contact_person": "Hans Bengtsson",
+            "phone_number": "+446493728",
+            "country": "Polen"
+        }
+
+    ],
+
+    "department": [
+        {
+            "department_id": 1,
+            "location_area": "Sundsvall",
+            "number_of_employees": 18,
+            "income_2021": 8850234,
+            "number_of_served_cars_2021": 29520
+        },    
+
+        {
+            "department_id": 2,
+            "location_area": "Tyrilla",
+            "number_of_employees": 14,
+            "income_2021": 7902700,
+            "number_of_served_cars_2021": 26234
+        },
+
+        {
+            "department_id": 3,
+            "location_area": "Vasterhaninge",
+            "number_of_employees": 27,
+            "income_2021": 6819034,
+            "number_of_served_cars_2021": 22273
+        },
+
+        {
+            "department_id": 4,
+            "location_area": "Hammarsjon",
+            "number_of_employees": 28,
+            "income_2021": 5631220,
+            "number_of_served_cars_2021": 18277
+        },  
+
+        {
+            "department_id": 5,
+            "location_area": "Liljeholmen",
+            "number_of_employees": 16,
+            "income_2021": 4701040,
+            "number_of_served_cars_2021": 21562
+        }
+
+    ]
+}
